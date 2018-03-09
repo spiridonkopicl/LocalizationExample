@@ -1,0 +1,3 @@
+[submodule "LocalizationExample/NewRepo"]
+	path = LocalizationExample/NewRepo
+	url = git@github.com:spiridonkopicl/newrepo.git
