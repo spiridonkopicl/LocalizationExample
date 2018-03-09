@@ -1,0 +1,9 @@
+/* 
+  Localization.strings
+  LocalizationExample
+
+  Created by Predrag Karic on 3/9/18.
+  Copyright © 2018 door8c. All rights reserved.
+*/
+
+"localize.text" = "DE Localize me!";
